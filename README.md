@@ -2,7 +2,7 @@
 Android Open Source Projects [https://codekk.com](https://p.codekk.com/) for more
 ====================
 
-> Languages: English (current) · [简体中文](./README.zh.md) · [繁體中文](./%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88/README.md)
+> Languages: English (current) ·
 
 Welcome to recommend good android open source projects, you can [Commit](https://github.com/Trinea/android-open-project/wiki/Standard-of-adding-and-editing-content "Standard of adding and editing content") directly or tell me at [Colloct Page](https://github.com/Trinea/android-open-project/issues/1). Welcome `Star` and `Fork`  
 
